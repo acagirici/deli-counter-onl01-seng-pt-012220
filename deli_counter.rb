@@ -4,4 +4,4 @@ def line(katz_deli)
   if line.empty?
     puts "The line is currently empty."
   else
-    
+    number = 1
